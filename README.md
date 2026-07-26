@@ -7,3 +7,5 @@ cp -rfv bin/functions/docker/release/* ${HOME}/programs/kamehouse-shell/bin/func
 cp -rfv bin/docker/release/* ${HOME}/programs/kamehouse-shell/bin/docker/release/
 ```
 
+Then run the scripts to build and run the kamehouse docker image
+

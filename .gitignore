@@ -23,7 +23,6 @@ kamehouse-groot/dist
 # Directories 
 # ##################
 **/build/
-/bin/
 **/target/
 
 # ##################
